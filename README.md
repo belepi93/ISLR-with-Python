@@ -1,4 +1,9 @@
 # ISLR-with-Python
+* [Chapter2 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter2%20-%20Exercise.ipynb)
+* [Chapter3 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter3%20-%20Practice.ipynb)
+* [Chapter3 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter3%20-%20Exercise.ipynb)
+* [Chapter4 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter4%20-%20Practice.ipynb)
+
 ### English
 This repository contains Jupyter notebooks for personal study of [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/index.html). My notebooks consist of two parts, Practice and Exercise. Practice notebooks and contents in Data folder are mainly from JWarmenhoven's [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) repository. But I tried to include a lot more codes for Figures which are not in JWarmenhoven's notebooks but seemed important to me.
 
