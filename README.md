@@ -18,7 +18,7 @@ Thank You!
 
 **2018/1/17:**
 
-Added **Chpater5 - Pracitce**
+Added **Chapter5 - Pracitce**
 
 
 ### Korean
