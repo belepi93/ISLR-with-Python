@@ -1,8 +1,10 @@
 # ISLR-with-Python
-* [Chapter2 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter2%20-%20Exercise.ipynb)
-* [Chapter3 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter3%20-%20Practice.ipynb)
-* [Chapter3 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter3%20-%20Exercise.ipynb)
-* [Chapter4 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Chapter4%20-%20Practice.ipynb)
+* [Chapter2 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter2%20-%20Exercise.ipynb)
+* [Chapter3 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter3%20-%20Practice.ipynb)
+* [Chapter3 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter3%20-%20Exercise.ipynb)
+* [Chapter4 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter4%20-%20Practice.ipynb)
+* [Chapter4 - Exercise](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter4%20-%20Exercise.ipynb)
+* [Chapter5 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter5%20-%20Practice.ipynb)
 
 ### English
 This repository contains Jupyter notebooks for personal study of [Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/index.html). My notebooks consist of two parts, Practice and Exercise. Practice notebooks and contents in Data folder are mainly from JWarmenhoven's [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) repository. But those notebooks contain some deprecated modules and some errors so i tried to fix codes which are not working properly. Also, I have included a lot more codes for Figures which are not in JWarmenhoven's notebooks but seemed important to me.
@@ -26,6 +28,6 @@ Added **Chpater5 - Pracitce**
 
 코드에 문제가 있거나 작성한 코드에 라이센스 문제가 있다면 알려주시면 감사하겠습니다. 또, 코드에 비효율적인 부분이 있거나 개선할 부분이 있다면 언제든 피드백을 주시면 감사하겠습니다.
 
-**2018/1/15:**
+**2018/1/17:**
 
 **Chapter5 - Practice**를 업로드하였습니다.
