@@ -24,9 +24,9 @@ If there are some technical or license problems to this repository, please let m
 Thank You!
 
 
-**2018/1/24:**
+**2018/1/28:**
 
--Added **Chapter7 - Pracitce, Exercise**
+-Added **Chapter8 - Exercise**
 
 ### Korean
 이 깃허브 저장소는 [가볍게 시작하는 통계학습(Introduction to Statistical Learning with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/index.html)을 파이썬으로 공부하며 작성한 주피터 노트북 파일들 저장하기 위해 만들었습니다. 파일들은 크게 두 부분으로 나누어져 있는데, practice 노트북과 Data 폴더에 있는 자료들은 JWarmenhoven의 [ISLR-python](https://github.com/JWarmenhoven/ISLR-python) 저장소를 보고 공부하며 작성하였습니다. 대부분이 일치하지만, JWarmenhoven의 코드가 오래되어 더 이상 사용되지 않는 모듈을 다루고 있거나 제대로 작동하지 않는 부분을 포함하고 있어 그 부분을 수정하였고, JWarmenhoven이 다루지 않은 여러 그래프들을 그리기 위한 코드를 추가로 작성하여 업로드하였으니 공부하시는 데에 도움이 될 것입니다.
@@ -37,4 +37,4 @@ Thank You!
 
 **2018/1/24:**
 
-**Chapter7 - Practice, Exercise**를 업로드하였습니다.
+**Chapter8 - Exercise**를 업로드하였습니다.
