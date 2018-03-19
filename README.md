@@ -1,4 +1,16 @@
 # ISLR-with-Python
+
+**2018-03-19**
+There are many errors in this repository. Please be careful when using these resources for your study. For example, I did not carefully preprocessed training/test data set. You should not use test set's information in preprocessing test set. So, you should use below code for preprocessing data.
+
+```python
+sc = standard_scaler()
+X_train_sc = sc.fit_transform(X_train)
+X_test_sc = sc.transform(X_test)
+```
+
+And there are also a lot many other errors in these notebooks but i don't have enough time right now to fix those errors. If you were able to find and fix errors, please send me a pull request or email.
+
 * **Practice**
     * [Chapter3 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter3%20-%20Practice.ipynb)
     * [Chapter4 - Practice](https://nbviewer.jupyter.org/github/belepi93/ISLR-with-Python/blob/master/Notebooks/Chapter4%20-%20Practice.ipynb)
