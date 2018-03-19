@@ -4,7 +4,8 @@
 There are many errors in this repository. Please be careful when using these resources for your study. For example, I did not carefully preprocessed training/test data set. You should not use test set's information in preprocessing test set. So, you should use below code for preprocessing data.
 
 ```python
-sc = standard_scaler()
+from sklearn.preprocessing import StandardScalar
+sc = StandardScaler()
 X_train_sc = sc.fit_transform(X_train)
 X_test_sc = sc.transform(X_test)
 ```
